@@ -23,9 +23,7 @@ This project is a personal portfolio website that showcases my work and skills. 
 Technologies
 This project was built using the following technologies:
 
-HTML
-CSS
-JavaScript
+HTML,CSS,JavaScript
 Contributing
 I welcome contributions to this project! Here are some guidelines to follow:
 
